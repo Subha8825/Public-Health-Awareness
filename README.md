@@ -18,7 +18,7 @@ The Public Health Awareness Project is a data-driven initiative aimed at raising
 ## Project Structure
 
 - https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey: Contains datasets and data-related resources.
-- https://github.com/Subha8825/Public-Health-Awareness/blob/main/DAC_Phase1.docx: Documentation and educational materials.
+- https://github.com/Subha8825/Public-Health-Awareness/blob/main/DAC_Phase1.docx: Project Definition and Design Thinking.
 
 ## Contributors
 https://github.com/Subha8825/Public-Health-Awareness.git
