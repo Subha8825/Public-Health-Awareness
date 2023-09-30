@@ -1,48 +1,32 @@
-# Public-Health-Awareness (Phase 1)
- Empowering communities through data-driven awareness.
+# Public Health Awareness Project
 
-## Project Definition
+## About
 
-The Public Health Awareness Project involves analyzing data from public health awareness campaigns to measure their effectiveness in reaching the target audience and increasing awareness. The objective is to provide insights that evaluate the impact of the campaigns and inform future strategies. This project includes defining analysis objectives, collecting campaign data, designing relevant visualizations in IBM Cognos, and using code for data analysis.
+The Public Health Awareness Project is a data-driven initiative aimed at raising awareness about critical public health issues and improving healthcare accessibility, especially for underserved communities. Our project focuses on leveraging data analytics, community engagement, and technology to make a positive impact on public health.
 
-## Design Thinking Approach
+## Project Objectives
 
-**1. Empathize:**
-
-- Understand the health challenges faced by different communities.
-- Gather data on prevalent diseases, healthcare accessibility, and community needs.
-- Listen to the stories and experiences of individuals affected by health disparities.
-
-**2. Define:**
-
-- Clearly define the problem: "How might we raise public health awareness and improve healthcare access for underserved communities?"
+- Analyze the effectiveness of public health awareness campaigns.
 - Identify key health indicators, vulnerable populations, and critical public health issues.
-
-**3. Ideate:**
-
-- Brainstorm potential solutions, including digital platforms, educational campaigns, and community outreach programs.
-- Consider using data analytics and AI-driven insights to personalize health information.
-
-**4. Prototype:**
-
-- Develop a prototype of a user-friendly public health awareness platform.
-- Create sample educational materials and content that resonate with diverse audiences.
-
-**5. Test:**
-
-- Pilot the prototype in a selected community to assess its effectiveness.
-- Collect feedback from community members, healthcare professionals, and stakeholders.
-
-**6. Implement:**
-
-- Deploy the public health awareness platform and educational materials.
+- Design and implement data-driven solutions to personalize health information.
+- Develop user-friendly platforms and educational materials for diverse audiences.
+- Pilot and assess the effectiveness of our solutions in selected communities.
 - Collaborate with local healthcare providers and community organizations.
+- Continuously monitor and adapt our solutions based on user feedback and community needs.
 
-**7. Learn:**
+## Get Involved
 
-- Continuously monitor the platform's performance and gather user feedback.
-- Adapt and expand the platform based on community needs and feedback.
+We welcome contributors who share our passion for improving public health awareness. You can get involved by:
 
-## Conclusion
+- **Forking** this repository and making contributions.
+- **Opening issues** to report problems or suggest improvements.
+- **Participating in discussions** on the project's direction and goals.
 
-The Public Health Awareness project represents a commitment to addressing critical health disparities and empowering communities through informed decision-making. Leveraging the Design Thinking approach, we aim to develop a holistic solution that combines technology, data, and community engagement to raise awareness about public health issues and improve healthcare accessibility.
+## Project Structure
+
+- https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey: Contains datasets and data-related resources.
+- ``: Includes code for data analysis and solution development.
+- `/docs`: Documentation and educational materials.
+
+## Contributors
+https://github.com/Subha8825/Public-Health-Awareness.git
