@@ -1,4 +1,4 @@
-# Public Health Awareness Project
+# Public Health Awareness Project (Phase 1)
 
 ## About
 
@@ -14,19 +14,11 @@ The Public Health Awareness Project is a data-driven initiative aimed at raising
 - Collaborate with local healthcare providers and community organizations.
 - Continuously monitor and adapt our solutions based on user feedback and community needs.
 
-## Get Involved
-
-We welcome contributors who share our passion for improving public health awareness. You can get involved by:
-
-- **Forking** this repository and making contributions.
-- **Opening issues** to report problems or suggest improvements.
-- **Participating in discussions** on the project's direction and goals.
 
 ## Project Structure
 
 - https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey: Contains datasets and data-related resources.
-- ``: Includes code for data analysis and solution development.
-- `/docs`: Documentation and educational materials.
+- https://github.com/Subha8825/Public-Health-Awareness/blob/main/DAC_Phase1.docx: Documentation and educational materials.
 
 ## Contributors
 https://github.com/Subha8825/Public-Health-Awareness.git
